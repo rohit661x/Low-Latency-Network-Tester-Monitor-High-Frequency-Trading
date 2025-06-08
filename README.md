@@ -69,9 +69,6 @@ The tool provides:
 - Alert notifications for threshold violations
 - Detailed log files for further analysis
 
-## License
-
-MIT License
 
 ## Contributing
 
